@@ -1,4 +1,4 @@
-# Calculadora de Imc
+# Calculadora de IMC
 Projeto simples de Calculadora de IMC feito com a biblioteca Flet, que permite criar interfaces gráficas modernas usando Python puro.
 
 ## 🖥️ Funcionalidades
