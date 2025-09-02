@@ -1,7 +1,7 @@
-# Calculadora de IMC
+# Calculadora de IMC:
 Projeto simples de Calculadora de IMC feito com a biblioteca Flet, que permite criar interfaces gráficas modernas usando Python puro.
 
-## 🖥️ Funcionalidades
+## 🖥️ Funcionalidades:
 * Interface gráfica simples e responsiva ✅
 * Cálculo automático do IMC com classificação (abaixo do peso, normal, sobrepeso, obesidade...) ✅
 * Validação de entrada (evita erros com valores inválidos) ✅
